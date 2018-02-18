@@ -16,25 +16,27 @@ Your task is to recreate magic8 for Python. To do so, you will have to learn how
 
 3. Generate a random number (see resources).
 
-3. Use `if` statements to print different responses based on the value of the random number.
+4. Use `if` statements to print different responses based on the value of the random number.
+
+5. Try challenging yourself by completing the silver, gold, and diamond expectations!
 
 ## Resources
 
 | Requirement | Resource |
 |-------------|----------|
 | User input  | <ul><li>[input command (Python official docs)](https://docs.python.org/3/library/functions.html#input)</li><li>[the input function (Hands-on Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html)</li></ul> |
-| If statements  | <ul><li>[Intro to if statements (Programiz)](https://www.programiz.com/python-programming/if-elif-else)</li><li>[If statements (Hands-On Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html)</li><li>[Control Flow (Official Tutorial)](https://docs.python.org/3/tutorial/controlflow.html)</li></ul> |
 | Random numbers | <ul><li>[Generate random integers between 0 and 9 (StackOverflow)](https://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)</li><li>[random.randint (Official docs)](https://docs.python.org/3/library/random.html#random.randint)</li><li>[More about random numbers (effbot)](http://effbot.org/pyfaq/how-do-i-generate-random-numbers-in-python.htm)</li></ul> |
+| If statements  | <ul><li>[Intro to if statements (Programiz)](https://www.programiz.com/python-programming/if-elif-else)</li><li>[If statements (Hands-On Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html)</li><li>[Control Flow (Official Tutorial)](https://docs.python.org/3/tutorial/controlflow.html)</li></ul> |
+| String comparison | <ul><li>[String comparison (Interactive Python)](http://interactivepython.org/courselib/static/thinkcspy/Strings/StringComparison.html)</li></ul> |
 | Loops       | <ul><li>[While loops (TutorialsPoint)](https://www.tutorialspoint.com/python/python_while_loop.htm)</li></ul> |
 | Lists       | <ul><li>[Lists (CS For All)](https://www.cs.hmc.edu/csforall/FunctionalProgramming/functionalprogramming.html#lists)</li></ul> |
-
 
 ## Assessment
 
 | Level  | Expectations |
 |--------|--------------|
 | Bronze | Lets the user enter a question, and prints a random response |
-| Silver | Recognizes "key phrases" with unique responses |
+| Silver | Recognizes "key phrases" to which it gives unique responses |
 | Gold   | Uses a while loop to repeat the whole process, asking each time if the user wants to ask another question |
 | Diamond | Uses lists instead of if statements to choose the response |
 
