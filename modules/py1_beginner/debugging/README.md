@@ -8,11 +8,11 @@ A famous example of a bug includes the [Y2K bug](https://en.wikipedia.org/wiki/Y
 
 ## Common Bugs
 
-![Flow Chart](./graphic.PNG "Flow Chart")
+![Flow Chart](./graphic.png "Flow Chart")
 
 Sometimes, you complete your code, save it, hit run, and nothing happens. It highlights a line or section of your code in red and pops up some kind of error message. Other times, you can run the code, but at some point it stops running and shows a bunch of red text with an error message in it. Yet still other times, your code doesn't stop, but it doesn't give the answer you expected either. We'll talk about all of these possible issues.
 
-###1. Typos 
+### 1. Typos
 
 Yeah, it can be that simple:
     
