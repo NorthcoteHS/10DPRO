@@ -18,7 +18,7 @@ print('Hello, World!')
 
 #### `input()`
 
-[`input()`](https://docs.python.org/3/library/functions.html#input) is like a sibling to `print()`. It takes one input, displays it to the screen, and then waits for the user to "input" a response (which it returns as an output). For instance, this code will display `Say something: ` to the user, wait for the user to type a response, and then store that response in a variable called `response`:
+[`input()`](https://docs.python.org/3/library/functions.html#input) is like a sibling to `print()`. It takes one input, which it displays to the screen, and then waits for the user to type a response (which it returns as an output). For instance, this code will display `Say something: ` to the user, wait for the user to type a response, and then store that response in a variable called `response`:
 
 ```python
 response = input('Say something: ')
