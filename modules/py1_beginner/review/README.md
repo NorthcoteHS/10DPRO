@@ -24,13 +24,21 @@ print('Hello, World!')
 response = input('Say something: ')
 ```
 
-#### `int()`
+#### `int()` and `str()`
 
 [`int()`](https://docs.python.org/3/library/functions.html#int) converts text or decimal numbers into an integer (a whole number). This is especially useful in combination with `input()`, which always returns a string. For example, the code below converts a string to a number and does basic math with it:
 
 ```python
 # After the line below, x has a value of 10.
 x = int('5') * 2
+```
+
+[`str()`](https://docs.python.org/3/library/functions.html#func-str) converts a number into a string (text). This is useful if you want to join multiple strings using `+`. For example, the code below displays the current value of `x`:
+
+```python
+x = 5
+message = 'The value of x is ' + str(x) + '.'
+print(message)
 ```
 
 #### `len()`
