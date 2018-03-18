@@ -155,38 +155,28 @@ Like `if` statements, notice that the block of code performed by the `while` sta
 
 ## Comments
 
-Comments are a way of writing human-readable descriptions of your code, for yourself and anyone else who may read your code in the future. These lines are specifically *ignored* by the computer when running your code. They are vital not only after-the-fact, but also in structuring your thinking while you program. **Every** program you write should have thorough comments.
+Comments are a way of writing human-readable descriptions of your code, for yourself and anyone else who may read your code in the future. There are [three types of comments](https://www.python.org/dev/peps/pep-0008/#comments) in Python:
 
-There are [three types of comments](https://www.python.org/dev/peps/pep-0008/#comments) in Python:
+1. **Block:** Starts with a `#` on a new line, and describes the following block of code:
 
-1. **Block:** Starts with a `#` on a new line, and describes the following block of code (usually 3-5 lines, separated with a blank line and a new block comment).
+    ```python
+    # Increase x by 1.
+    x = x + 1
+    ```
 
-2. **Inline:** Like a block comment, starts with a `#` but on the *same line* as code. Use these sparingly - it is almost always better to use a block comment.
+2. **Inline:** Like a block comment, starts with a `#` but on the *same line* as code (avoid using):
 
-3. **[Docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring):** A multi-line comment that starts and ends with `"""`, used to describe an entire file or function. Every file should start with a docstring.
+    ```python
+    x = x + 1   # Increase x by 1.
+    ```
 
-Comments should be written as sentences, with a capital letter and a period. Below is an example of each type of comment:
+3. **[Docstring](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring):** A multi-line comment that starts and ends with `"""`:
 
-```python
-"""
-Docstring:
-Describe the entire file/function, in broad terms,
-over multiple lines.
-"""
+    ```python
+    """
+    Multi-line
+    comment.
+    """
+    ```
 
-# Block comment: Describe the following block of code.
-x = 1
-x = x + 1.05    # Inline comment: Describe something unique on this line.
-print(x)
-
-# Another block comment.
-y = 2
-print(y)
-```
-
-Note that comments can also be used to temporarily remove code, like below:
-```python
-# Set the difficulty of the game.
-# difficulty = 'hard'
-difficulty = 'easy'
-```
+See the [commenting module](../commenting/) for more information.
