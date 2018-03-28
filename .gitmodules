@@ -1,0 +1,3 @@
+[submodule "resources/software"]
+	path = resources/software
+	url = https://github.com/NorthcoteHS/software.git
