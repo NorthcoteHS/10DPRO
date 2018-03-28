@@ -9,18 +9,18 @@ Desc:   Asks the user for their name, address, etc. This code has poorly named v
 print('Welcome to the User Information Booth! Please enter your info.')
 
 # Get user's name.
-a = input('First Name: ')
-b = input('Last Name: ')
+name = input('First Name: ')
+name2 = input('Last Name: ')
 
 # Get user's birth date.
-c = input('Birth Year: ')
-d = input('Birth Month: ')
-e = input('Birth Day: ')
+dob = input('Birth Year: ')
+dob2 = input('Birth Month: ')
+dob3 = input('Birth Day: ')
 
 # Get user's favourites.
-f = input('Favourite colour: ')
-g = input('Favourite song: ')
-h = input('Favourite sport: ')
+red = input('Favourite colour: ')
+omgmusic = input('Favourite song: ')
+footyobvz = input('Favourite sport: ')
 
 # Display exit message.
-print('Thank you!')
+print('Thank you, your information has been saved.')
