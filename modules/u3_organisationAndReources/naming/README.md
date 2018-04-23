@@ -60,3 +60,43 @@ Date: 2018-03-29
 7. Find one file with poorly named variables, fix them, and commit.
 8. When completely done, push your progress to GitHub!
     - Remember that you needed to  set your remote back to "origin" at the end of Step 1.
+
+## Marking Scheme
+
+For each item on this list, you will receive one mark if it is completed correctly.
+
+- [ ] All: files are located in the root directory
+- [ ] All: file names are correctly formatted according to 10MCOD conventions
+- [ ] All: files have correct extensions
+- [ ] Hello World! ^_^: file appropriately renamed
+- [ ] New Text Document: file appropriately renamed
+- [ ] All: docstrings: Student’s name has been added
+- [ ] All: docstrings: All dates are in the correct format
+- [ ] All: docstrings: Fields are updated based on changes made
+- [ ] asdf: file appropriately renamed
+- [ ] asdf: has proper variable names for the user’s name
+- [ ] asdf: has proper variable names for the user’s date of birth
+- [ ] asdf: has proper variable names for the user’s favourites
+- [ ] asdf: Variable names are formatted according to 10MCOD conventions
+- [ ] debugMe: File appropriately renamed
+- [ ] debugMe: All typos corrected
+- [ ] debugMe: Logic error corrected
+- [ ] debugMe: All syntax errors corrected
+- [ ] debugMe: All required packages imported 
+- [ ] debugMe: Code runs free of errors
+- [ ] completeMe: File appropriately renamed
+- [ ] completeMe: Correct lines for getting length and width from user
+- [ ] completeMe: Area is correctly calculated
+- [ ] completeMe: Perimeter is correctly calculated
+- [ ] completeMe: Perimeter is correctly displayed
+- [ ] completeMe: Code runs free of errors
+- [ ] commentMe: File appropriately renamed
+- [ ] commentMe: complete docstring has been added
+- [ ] commentMe: first section (print statement) has an appropriate comment
+- [ ] commentMe: second section (r =) have appropriate comments
+- [ ] commentMe: third section (area) has appropriate comments
+- [ ] commentMe: fourth section (perimeter) has appropriate comments
+- [ ] All: Changes have been committed
+- [ ] All: Changes have been pushed to GitHub
+
+Total: 33 Marks
