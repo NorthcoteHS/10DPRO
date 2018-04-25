@@ -68,34 +68,34 @@ For each item on this list, you will receive one mark if it is completed correct
 - [ ] All: files are located in the root directory
 - [ ] All: file names are correctly formatted according to 10MCOD conventions
 - [ ] All: files have correct extensions
-- [ ] Hello World! ^_^: file appropriately renamed
-- [ ] New Text Document: file appropriately renamed
-- [ ] All: docstrings: Student’s name has been added
-- [ ] All: docstrings: All dates are in the correct format
+- [ ] All: docstrings: Student's name has been added
+- [ ] All: docstrings: Dates are in the correct format
 - [ ] All: docstrings: Fields are updated based on changes made
-- [ ] asdf: file appropriately renamed
-- [ ] asdf: has proper variable names for the user’s name
-- [ ] asdf: has proper variable names for the user’s date of birth
-- [ ] asdf: has proper variable names for the user’s favourites
-- [ ] asdf: Variable names are formatted according to 10MCOD conventions
-- [ ] debugMe: File appropriately renamed
-- [ ] debugMe: All typos corrected
-- [ ] debugMe: Logic error corrected
-- [ ] debugMe: All syntax errors corrected
-- [ ] debugMe: All required packages imported 
-- [ ] debugMe: Code runs free of errors
-- [ ] completeMe: File appropriately renamed
-- [ ] completeMe: Correct lines for getting length and width from user
-- [ ] completeMe: Area is correctly calculated
-- [ ] completeMe: Perimeter is correctly calculated
-- [ ] completeMe: Perimeter is correctly displayed
-- [ ] completeMe: Code runs free of errors
-- [ ] commentMe: File appropriately renamed
-- [ ] commentMe: complete docstring has been added
-- [ ] commentMe: first section (print statement) has an appropriate comment
-- [ ] commentMe: second section (r =) have appropriate comments
-- [ ] commentMe: third section (area) has appropriate comments
-- [ ] commentMe: fourth section (perimeter) has appropriate comments
+- [ ] `Hello World! ^_^`: file appropriately renamed
+- [ ] `New Text Document`: file appropriately renamed
+- [ ] `asdf`: file appropriately renamed
+- [ ] `asdf`: has proper variable names for the user’s name
+- [ ] `asdf`: has proper variable names for the user’s date of birth
+- [ ] `asdf`: has proper variable names for the user’s favourites
+- [ ] `asdf`: Variable names are formatted according to 10MCOD conventions
+- [ ] `debugMe`: File appropriately renamed
+- [ ] `debugMe`: All typos corrected
+- [ ] `debugMe`: Logic error corrected
+- [ ] `debugMe`: All syntax errors corrected
+- [ ] `debugMe`: All required packages imported 
+- [ ] `debugMe`: Code runs free of errors
+- [ ] `completeMe`: File appropriately renamed
+- [ ] `completeMe`: Correct lines for getting length and width from user
+- [ ] `completeMe`: Area is correctly calculated
+- [ ] `completeMe`: Perimeter is correctly calculated
+- [ ] `completeMe`: Perimeter is correctly displayed
+- [ ] `completeMe`: Code runs free of errors
+- [ ] `commentMe`: File appropriately renamed
+- [ ] `commentMe`: complete docstring has been added
+- [ ] `commentMe`: first section (print statement) has an appropriate comment
+- [ ] `commentMe`: second section (r =) have appropriate comments
+- [ ] `commentMe`: third section (area) has appropriate comments
+- [ ] `commentMe`: fourth section (perimeter) has appropriate comments
 - [ ] All: Changes have been committed
 - [ ] All: Changes have been pushed to GitHub
 
