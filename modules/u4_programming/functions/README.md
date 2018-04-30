@@ -26,8 +26,31 @@ def hello():
 hello()
 ```
 
+### Input and output
+
+As the "black box" picture above indicates, a function can receive input variables, and can also send an output variable when it is finished:
+
+```python
+def add(x,y):
+    # This function has two inputs (x and y) and outputs their sum.
+    return x + y
+
+z = add(3,4)    # z will get the value 7.
+```
+
 ### Grok
 
-Your assignment is now to complete the Grok lessons on functions: [Grok Python: Functions](https://groklearning.com/learn/intro-python-2/functions/0/).
+For further learning, complete the Grok lessons on functions: [Grok Python: Functions](https://groklearning.com/learn/intro-python-2/functions/0/).
 
 Good luck and have fun!
+
+## Exercises
+
+In **this** folder, create a new Python file named `functions.py`, and create the following functions:
+
+1. `hooray()`: Prints "Hooray!" to the screen.
+2. `subtract(x,y)`: Takes two numbers as input, and returns their difference.
+3. `double(x)`: Takes one number as input, and returns the number times two.
+4. `excited(word)`: Takes one string as input, and returns the string with an exclamation mark to the end.
+5. `stringJoin(str1, str2)`: Takes two strings as input, and returns the two strings joined with a space between them.
+6. `birthday(name)`: Prints "Happy birthday, [name]!" to the screen (using the inputted name). No return value.
