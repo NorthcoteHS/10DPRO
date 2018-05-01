@@ -128,3 +128,28 @@ There's plenty more that can be done with lists! Check out the [lists documentat
 
 ## Exercises
 
+In **this** folder, create the files for the following exercises.
+
+**Exercise 1:** Create a file called `classRoll.py`. In it, do the following:
+
+1. Create the following list:
+    `roll = ['Jessica', 'Emily', 'Jordan', 'Kayley', 'Bruce', 'Michael', 'Everett', 'Lisa', 'Sam', 'Noah']`
+2. Students take turns each week cleaning the class guinea pig cage. Print the name of the third student on the roll so they know it's their turn.
+3. Create a variable called `enrolment` and assign it the number of students in the class (length of the list).
+4. A new student arrived - `'James'`. Add him to the roll.
+5. `'Jordan'` changed schools. Remove him from the roll.
+6. `'Michael'` prefers to go by 'Mike'. Change his name on the roll.
+7. (Challenge) Alphabetise the roll.
+8. (Challenge) Reverse the list.
+9. (Challenge) Print the name of a random student in the class.
+10. (Challenge) Create two lists, each with 5 students (one with the first half of the class, the other with the second)
+
+
+**Exercise 2:** Create a file called `userFaves.py`. In it, do the following:
+
+1. Create an empty list called `favourites`.
+2. While the user's input is not 'quit', ask the user for one of their favourite movies.
+3. Each time they give a movie title, add the movie to the list.
+4. At the end, thank them and tell them how many favourites they added to the list.
+5. (Challenge) Within the loop, also ask for a rating and store it in a second list.
+6. (Challenge) Rather than storing the movies and ratings as separate lists, instead store them together. To do this, make each pair its own list, and store it in a `favourites`. For example, `[['Shawshank Redemption', '10'], ['Jumanji', '8'], ['Frozen', '9']]`.
