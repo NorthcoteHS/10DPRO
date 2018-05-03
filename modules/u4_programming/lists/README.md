@@ -109,17 +109,17 @@ Note that negative indices count from -1 (last item) downward, so the second-las
 You can pull out a smaller "sub-list" of items from your list by using a colon in the index:
 
 ```python
-first2 = list[0:2]      # Contains ['Chocolate', 'Bananas']
-middle3 = list[1:4]     # Contains ['Bananas', 'Cereal', 'Bread']
+first2 = shopping[0:2]      # Contains ['Chocolate', 'Bananas']
+middle3 = shopping[1:4]     # Contains ['Bananas', 'Cereal', 'Bread']
 ```
 
-Note that the second index needs to be 1 *greater than* the last item you want - e.g. `list[0:2]` only pulls out items 0 and 1.
+Note that the second index needs to be 1 *greater than* the last item you want - e.g. `shopping[0:2]` only pulls out items 0 and 1.
 
 There are even more advanced options that involve omitting the first or last index - this will take all values from the beginning (or to the end), using your other index:
 
 ```python
-first3 = list[:3]       # Contains ['Chocolate', 'Bananas', 'Cereal']
-last2 = list[-2:]       # Contains ['Pizza', 'Ice cream']
+first3 = shopping[:3]       # Contains ['Chocolate', 'Bananas', 'Cereal']
+last2 = shopping[-2:]       # Contains ['Pizza', 'Ice cream']
 ```
 
 #### Other methods
