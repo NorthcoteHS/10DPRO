@@ -45,7 +45,25 @@ for i in range(10,0,-1):
 
 ### Using arrays
 
-For loops have another very powerful feature:
+For loops have another very powerful feature - they can loop through each value of a list:
+
+```python
+# Loop through each item in a list.
+shopping = ['Eggs', 'Bananas', 'Yogurt', 'Cereal', 'Bread', 'Pizza']
+for item in shopping:
+    print(item)     # Displays Eggs, Bananas, Yogurt, ...
+```
+
+### Advanced usage
+
+It is possible to loop through a list *and* have a counter (the index of the current list item) using the `enumerate()` function:
+
+```python
+shopping = ['Eggs', 'Bananas', 'Yogurt', 'Cereal', 'Bread', 'Pizza']
+for i,item in enumerate(shopping):
+    print('List item #', i)
+    print(item)
+```
 
 ## Exercises
 
