@@ -80,3 +80,5 @@ Create the list `dogs = ['Spot', 'Rex', 'Bob', 'Rufus']`. Use a for loop to loop
 **Exercise 3:** Create a file called `squareNumbers.py`
 
 This program will use a for loop for the numbers 1 - 10. Each number should be squared and the result added to a new list called `squares`. Print the list at the end of the file.
+
+Challenge: Instead, have the user input a number. List all of the square numbers up to that number. For example, if the user inputs 4, the program should print `[1, 4, 9, 16]`.
