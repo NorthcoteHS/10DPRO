@@ -67,3 +67,16 @@ for i,item in enumerate(shopping):
 
 ## Exercises
 
+In **this** folder, create the following files to complete the exercises:
+
+**Exercise 1:** Create a file called `countdown.py`
+
+This program should use a for loop to count down from 10 to 1, then print BLASTOFF! It should wait one second between printing each number. You will need to `import time` at the beginning of your program and use `time.sleep( seconds )` to have the program wait before proceeding.
+
+**Exercise 2:** Create a file called `goodDog.py`
+
+Create the list `dogs = ['Spot', 'Rex', 'Bob', 'Rufus']`. Use a for loop to loop through the list and print a statement calling each dog a good boy.
+
+**Exercise 3:** Create a file called `squareNumbers.py`
+
+This program will use a for loop for the numbers 1 - 10. Each number should be squared and the result added to a new list called `squares`. Print the list at the end of the file.
