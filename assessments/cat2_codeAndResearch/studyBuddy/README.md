@@ -18,6 +18,7 @@ To further improve your project, you may want to:
 - ask questions in a random order
 - present multiple-choice answers in a random order
 - improve short-answer detection by ignoring uppercase letters, articles ('the', 'a'), etc.
+- in your code, combine questions and answers into a single "multi-dimensional" array
 - randomly generate questions and compute the correct answers (e.g. for maths questions)
 - save a high-score or leaderboard that persists when re-running the program
     - **Note:** this requires learning about File I/O
