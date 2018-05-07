@@ -31,7 +31,7 @@ Your program will be assessed against [this rubric](../codingRubric.pdf). Note t
 Here's a basic structure ("algorithm") to get you started on your program:
 
 1. Create a list of all your questions.
-2. Create a variable to count the number of each answer (or add the score or perform another calculation).
+2. Create variable(s) to track responses/handle calculating the results.
 3. Use a for loop to go through each question in your list.
 4. Within the for loop, call a function with the question and answer as inputs.
     - The function will ask the question and return an indicator of which option was chosen (such as a number, 0 for a, 1 for b, 2 for c etc.)
@@ -46,5 +46,6 @@ To further improve your project, you may want to:
 - present multiple-choice answers in a random order
 - improve multiple-choice detection by ignoring case (A/a) and whitespace (`'a '`)
 - weight questions/answers based on how strongly they affect the user's final personality outcome
+- ask different questions depending on previous answers
 - show images with results
     - **Note:** this requires using the [Pillow module](https://pillow.readthedocs.io/en/3.1.x/installation.html#basic-installation) and [this method](https://stackoverflow.com/a/5333261/4080966) or similar
