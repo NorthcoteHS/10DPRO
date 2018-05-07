@@ -36,6 +36,7 @@ To further improve your project, you may want to:
 
 - ask questions in a random order
 - present multiple-choice answers in a random order
+- improve multiple-choice detection by ignoring case (A/a) and whitespace (`'a '`)
 - improve short-answer detection by ignoring uppercase letters, articles ('the', 'a'), etc.
 - in your code, combine questions and answers into a single "multi-dimensional" array
 - emulate your favourite game show's style of points/questions/gameplay

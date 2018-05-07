@@ -44,6 +44,7 @@ To further improve your project, you may want to:
 
 - ask questions in a random order
 - present multiple-choice answers in a random order
+- improve multiple-choice detection by ignoring case (A/a) and whitespace (`'a '`)
 - weight questions/answers based on how strongly they affect the user's final personality outcome
 - show images with results
     - **Note:** this requires using the [Pillow module](https://pillow.readthedocs.io/en/3.1.x/installation.html#basic-installation) and [this method](https://stackoverflow.com/a/5333261/4080966) or similar
