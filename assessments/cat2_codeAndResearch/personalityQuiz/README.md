@@ -31,12 +31,12 @@ Your program will be assessed against [this rubric](../codingRubric.pdf). Note t
 Here's a basic structure ("algorithm") to get you started on your program:
 
 1. Create a list of all your questions.
-2. Create variable(s) to track responses/handle calculating the results.
+2. Create a second list to track the number of responses of each type (a/b/c etc). These counters should all start at 0.
 3. Use a for loop to go through each question in your list.
 4. Within the for loop, call a function with the question and answer as inputs.
-    - The function will ask the question and return an indicator of which option was chosen (such as a number, 0 for a, 1 for b, 2 for c etc.)
-    - Note: it may be simplest to add the indicators up and use a range to determine the result.
-5. Compute and display the user's result when the for loop has finished.
+    - The function will ask the question and return an indicator of which option was chosen (such as a number: 0 for a, 1 for b, 2 for c etc.)
+5. Tally the number of responses of each type (a/b/c etc). When the loop has finished, determine the user's "personality" based on the result with the most responses, and display it to them.
+    - **Note:** An alternative, instead of deciding based on the "most responses", is to generate a single score based on the responses - e.g. `a` is worth 1 point, `b` is worth 2, etc. This score can be tallied as you go, and the personality can be decided at the end based on ranges: 10-20 is one personality, 20-30 is another, etc.
 
 ## Extension
 
