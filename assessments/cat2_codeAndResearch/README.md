@@ -11,7 +11,7 @@ For the first half of your CAT, your task is to complete **one** of the followin
 
 - [Trivia Game](./triviaGame/)
 - [Personality Quiz](./personalityQuiz/)
-- [Study Buddy](./triviaGame/)
+- [Study Buddy](./studyBuddy/)
 
 See the relevant page for the program of your choice. Each program has different specific requirements, but will be assessed by the same general rubric.
 
