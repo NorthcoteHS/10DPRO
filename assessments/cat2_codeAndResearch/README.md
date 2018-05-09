@@ -17,4 +17,4 @@ See the relevant page for the program of your choice. Each program has different
 
 ## Research assignment
 
-The second half of your CAT involves choosing a topic of your choice in Computing and researching it, in pairs or individually. More information to come.
+The second half of your CAT involves choosing a topic of your choice in Computing and researching it, in pairs or individually. More information on the [Research Component page](./researchComponent/).
