@@ -13,14 +13,14 @@ You will be graded on each of the following sections:
 - **Impact:** What impact does it have on everyday life, the future of technology/computing, or other fields of study? Use examples.
 - **Bibliography:** List your sources using an appropriate citation format. You should have at least 3 different sources.
 
-You may present your project in (almost) any way you like. A simple report will do, but you may also wish to do a presentation, video, poster, pamphlet, cartoon, podcast, Python program, etc.. You must address all of the categories thoroughly in whichever format you choose. I recommend using the headings provided to make it easy to locate your answers.
+You may present your project in (almost) any way you like. A simple report will do, but you may also wish to do a presentation, video, poster, pamphlet, cartoon, podcast, Python program, etc.. You must address all of the categories thoroughly in whichever format you choose. We recommend using the headings provided to make it easy to locate your answers.
 
 There is a list and brief description of some possible options below. **Note:** If you choose a different topic, it must be approved by your teacher first!
 
 | Topic  | Description  |
 |---|---|
-| Aritificial intelligence  | AI is when computers seem to make intelligent decisions or behaviour, such as playing chess, Siri, image recognition, self-driving cars, etc.   |
-| Machine Learning  | Rather than programming a computer with an already known solution to a problem, machine learning involves programming a computer to teach itself how to solve a problem. This can be used to teach computers to solve problems that normally require a human (such as classifying items based on pictures) or for solving problems we don't know how to solve.  |
+| Aritificial Intelligence  | AI is when computers seem to make intelligent decisions or behaviour, such as playing chess, Siri, image recognition, self-driving cars, etc.   |
+| Machine Learning  | Machine learning involves training a computer to solve a problem (such as classifying items based on pictures) by providing it large amounts of examples and having it identify patterns.  |
 | Cryptography  | The modern world relies on the protection of personal, organisational and governmental information. Most data such as finances, private messages, nuclear codes, etc. is protected by encryption, so that only authorised people can view it.  |
 | Networking  | The process of connecting two or more computers together.  |
 | Data Mining  | Data mining is not looking for data, rather it's looking through large amounts of data in the hopes of identifying patterns and learning about the data as a whole.  |
@@ -34,7 +34,7 @@ There is a list and brief description of some possible options below. **Note:** 
 
 ## Assessment
 
-The rubric for the research project of the CAT can be found here.
+The rubric for the research project of the CAT can be found [here](../researchRubric.pdf).
 
 ## Extension
 
