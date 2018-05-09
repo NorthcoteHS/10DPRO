@@ -1,6 +1,6 @@
 # researchProject
 
-Part 2 of your CAT is to research a computer science or programming topic that interests you. You will create some form of report on the topic. Details below.
+Part 2 of your CAT is to research a computer science or programming topic that interests you, in pairs or individually, and create a report of your choice.
 
 ## Description
 
@@ -35,6 +35,8 @@ There is a list and brief description of some possible options below. **Note:** 
 ## Assessment
 
 The rubric for the research project of the CAT can be found [here](../researchRubric.pdf).
+
+Please note the [school information on plagiarism](http://schoolbox.nhs.vic.edu.au/homepage/14767) - plagiarism will not be tolerated in any form. This includes copying information from websites without properly citing the sources, as well as sharing or copying material between classmates. This activity is to be completed individually or in pairs - reports should not be shared between groups.
 
 ## Extension
 
