@@ -41,25 +41,19 @@ Date: 2018-03-29
 
 ## Steps
 
-1. Start by refreshing your personal repo with the latest commits from 10MCOD. In Brackets:
-    - Open the Git extension, click the "origin" button near the right, and choose "upstream".
-    - Hit the "Git Pull" button, which should show multiple available pulls.
-    - When finished, return the first button to the "origin" setting.
-2. From pulling, you will now have *this module* on your computer! Open the folder to view the files.
-    - Use the "File Tree" on the left in Brackets to find `modules/u3/naming/`.
-    - Right-click on the folder and choose "Show in Explorer".
-3. Fix the folder structure of the files in `naming` and commit.
+1. Download the .zip folder from MyNH and save in your coding folder.
+2. Extract the folder from the .zip.
+3. Fix the folder structure of the files in `naming`.
     - In this case we don't want any folders. Move all files to the root level of `naming`.
-    - Remember to use a meaningful commit message.
-4. Fix all file names and file extensions (to .py) and commit.
+4. Fix all file names and file extensions (to .py).
     - Don't change README.md!
-5. Check each file's docstring and update any invalid fields, then commit.
+5. Check each file's docstring and update any invalid fields.
     - Replace "Student Name" with your own name.
     - Adjust all dates to use YYYY-MM-DD format.
 6. Complete the Debugging, Complete The Code, and Commenting programs that you find, and commit.
 7. Find one file with poorly named variables, fix them, and commit.
-8. When completely done, push your progress to GitHub!
-    - Remember that you needed to  set your remote back to "origin" at the end of Step 1.
+8. When completely done, zip the folder and submit to MyNH.
+    - Remember to check the marking scheme for your progress.
 
 ## Marking Scheme
 
@@ -96,7 +90,5 @@ For each item on this list, you will receive one mark if it is completed correct
 - [ ] `commentMe`: second section (r =) have appropriate comments
 - [ ] `commentMe`: third section (area) has appropriate comments
 - [ ] `commentMe`: fourth section (perimeter) has appropriate comments
-- [ ] All: Changes have been committed
-- [ ] All: Changes have been pushed to GitHub
 
-Total: 33 Marks
+Total: 31 Marks
