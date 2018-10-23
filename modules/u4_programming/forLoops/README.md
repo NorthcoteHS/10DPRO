@@ -9,6 +9,7 @@ It can be *very* useful to repeat a block of code a specific number of times, an
 counter = 0
 while counter < 10:
     print(counter)
+    counter = counter + 1
 ```
 
 But there is another type of loop, the *for loop*, that is specifically designed for this purpose:
