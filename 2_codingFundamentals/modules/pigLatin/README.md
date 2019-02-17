@@ -17,7 +17,7 @@ Your program should be able to translate single words to Pig Latin. As an extens
 2. Use `input` to get the text from the user.
 
     - Remember to give the user instructions (eg. "Enter one word to translate: ")
-    
+
 3. Use `if` statements and string operations to translate the word.
 
     - Consider this: What will your program do if the user inputs a string with more than one word (eg. "Mario Kart")? It could...
@@ -34,7 +34,7 @@ Your program should be able to translate single words to Pig Latin. As an extens
 
 | Requirement | Resource |
 |-------------|----------|
-| User input  | <ul><li>[input command (Python official docs)](https://docs.python.org/3/library/functions.html#input)</li><li>[the input function (Hands-on Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html)</li></ul> 
+| User input  | <ul><li>[input command (Python official docs)](https://docs.python.org/3/library/functions.html#input)</li><li>[the input function (Hands-on Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html)</li></ul>
 | If statements  | <ul><li>[Intro to if statements (Programiz)](https://www.programiz.com/python-programming/if-elif-else)</li><li>[If statements (Hands-On Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html)</li><li>[Control Flow (Official Tutorial)](https://docs.python.org/3/tutorial/controlflow.html)</li></ul> |
 | String Operations | <ul><li>[string - Common string operations (Python official docs)](https://docs.python.org/3/library/string.html)</li><li>[Manipulating Strings - Module 4 (Grok)](https://groklearning.com/learn/intro-python-1/manipulating-strings/0/)</li></ul> |
 

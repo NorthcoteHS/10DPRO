@@ -16,9 +16,9 @@ Your job is to create a Mad Lib game. Create your own story or find one to use.
     Enter a thing: basketball
     Enter a person: Drake
     Enter a family member: cousin
-    
+
     Please excuse Elmo from Big History today. His accountant says he is too wild to attend the airport. He will return to school in 30 seconds. Please send his basketball home with Drake, his sister.
-    
+
     Signed, Elmo's cousin
 
 ```
@@ -30,7 +30,7 @@ Your job is to create a Mad Lib game. Create your own story or find one to use.
 2. Prompt the user for the different words you would like, in order. Store them in a list.
 
 3. Print the story with the users words added.
-    
+
 4. Use the resources below to guide you through the process.
 
 ## Resources
@@ -46,7 +46,7 @@ Your job is to create a Mad Lib game. Create your own story or find one to use.
 - use a list for the types of blanks you want, and use a loop to ask for the inputs. (It will save you a lot of repeated code!)
 - Create multiple stories with different names and required words. Let the user choose by title which game they'd like to play.
 - Do something else creative!
-    
+
 
 ## Assessment
 

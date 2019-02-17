@@ -21,7 +21,7 @@ Your task is to create a basic program to generate a receipt for products purcha
     Please enter an item (or quit): quit
 
     Thank you for shopping :)
-    
+
     avocado             $2.00
     avocado             $2.00
     avocado             $2.00
@@ -31,7 +31,7 @@ Your task is to create a basic program to generate a receipt for products purcha
     hommus              $7.00
                        ------
     Total              $21.00
-    
+
     Please come again!
 ```
 
@@ -40,7 +40,7 @@ Your task is to create a basic program to generate a receipt for products purcha
 1. Start by creating a new file in IDLE. Save the new file as `receipt.py` in your 10MCOD directory.
 
 2. Use a while loop to receive inputs from the user. You will probably need a counter variable to index your lists.
-    
+
 3. Determine the total by adding the prices together - tricky! It needs to work no matter how many items the user has added to the list.
 
 4. Output the formatted receipt.
@@ -75,7 +75,7 @@ Your task is to create a basic program to generate a receipt for products purcha
                         ------
     Total               $10.50
     ```
-    
+
 
 ## Assessment
 
