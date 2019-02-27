@@ -47,4 +47,4 @@ Your job is to create a program that "thinks" of a number and lets the user gues
 
 - **Note:** all code should be commented and you should have no redundant code
 
-Submit a zip of your final code on MyNHS.
+Submit a zip of your final code on MyNH.

@@ -86,3 +86,5 @@ Your task is to create a basic program to generate a receipt for products purcha
 | Gold     | Implements one or more of the challenges. |
 
 - **Note:** all code should be commented and you should have no redundant code.
+
+Submit a zip of your final code on MyNH.

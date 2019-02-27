@@ -57,3 +57,5 @@ Your job is to create a Mad Lib game. Create your own story or find one to use.
 | Gold     | More than one story! |
 
 - **Note:** all code should be commented and you should have no redundant code.
+
+Submit a zip of your final code on MyNH.

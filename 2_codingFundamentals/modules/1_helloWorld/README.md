@@ -48,4 +48,4 @@ Your task is to create a "Hello, World!" program in Python, then add a few extra
 | Silver | Uses `input` to ask for and print back the user's name |
 | Gold   | Comments and docstring |
 
-At the end of each day, submit a zip of your entire working directory (including this module) on MyNHS.
+Submit a zip of your final code on MyNH.

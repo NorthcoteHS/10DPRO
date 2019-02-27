@@ -42,4 +42,4 @@ Your task is to recreate magic8 for Python. To do so, you will have to learn how
 
 - **Note:** all code should be commented and you should have no redundant code
 
-At the end of each day, submit a zip of your entire working directory (including this module) on MyNHS.
+Submit a zip of your final code on MyNH.
