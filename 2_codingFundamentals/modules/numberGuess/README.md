@@ -43,7 +43,7 @@ Your job is to create a program that "thinks" of a number and lets the user gues
 | Bronze | Hard-coded number, lets the user guess once |
 | Silver | Random number |
 | Gold   | Lets the user guess repeatedly |
-| Diamond | Also lets the user reset (with a new number)! |
+| Diamond | Has a score (based on # of guesses), lets the user reset with a new number, choose different difficulties, or any other creative ideas! |
 
 - **Note:** all code should be commented and you should have no redundant code
 
