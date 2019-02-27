@@ -14,8 +14,8 @@ Your task is to create a "Hello, World!" program in Python, then add a few extra
 
     - In IDLE, press Ctrl+n (Command+n on Mac) to create a new file. It will open in a separate window.
     - Save the new file right away with Ctrl+s, or `File -> Save`.
-    - If you haven't already, **create a folder somewhere important** where you will save *all files and folders* related to this course. Call it `10MCOD` (or something similar).
-    - Save this new file as `helloWorld.py` in your `10MCOD` folder (notice the extension - all Python files should end in `.py`).
+    - If you haven't already, **create a folder somewhere important** where you will save *all files and folders* related to this course. Call it `10DPRO` (or something similar).
+    - Save this new file as `helloWorld.py` in your `10DPRO` folder (notice the extension - all Python files should end in `.py`).
 
 3. Remember `print('Hello, World!')`? Write that as your program's first line, then save and run (F5, or `Run -> Run Module`).
 

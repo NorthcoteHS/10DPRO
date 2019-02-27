@@ -49,7 +49,7 @@ Your task is to create a hangman game. It should
 
 ## Steps
 
-1. Start by creating a new file in IDLE. Save the new file as `hangman.py` in your 10MCOD directory.
+1. Start by creating a new file in IDLE. Save the new file as `hangman.py` in your 10DPRO directory.
 
 2. Create a list of at least 10 words for your program to choose from.
 

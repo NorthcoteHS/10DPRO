@@ -6,7 +6,7 @@ Your task is to create a simple calculator that asks the user for two numbers an
 
 1. Always start by creating a new file in IDLE (Ctrl+n or Command+n).
 
-    - Save the new file as `calculator.py` in your 10MCOD directory.
+    - Save the new file as `calculator.py` in your 10DPRO directory.
 
 2. Use `input` to get the two numbers and the operation from the user.
 

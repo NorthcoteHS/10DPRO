@@ -25,7 +25,7 @@ Your job is to create a Mad Lib game. Create your own story or find one to use.
 
 ## Steps
 
-1. Start by creating a new file in IDLE. Save the new file as `madLibs.py` in your 10MCOD directory.
+1. Start by creating a new file in IDLE. Save the new file as `madLibs.py` in your 10DPRO directory.
 
 2. Prompt the user for the different words you would like, in order. Store them in a list.
 

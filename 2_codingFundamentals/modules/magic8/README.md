@@ -8,7 +8,7 @@ Your task is to recreate magic8 for Python. To do so, you will have to learn how
 
 1. Always start by creating a new file in IDLE (Ctrl+n or Command+n).
 
-    - Save the new file as `magic8.py` in your 10MCOD directory.
+    - Save the new file as `magic8.py` in your 10DPRO directory.
 
 2. Use `input` to ask the user for a question.
 

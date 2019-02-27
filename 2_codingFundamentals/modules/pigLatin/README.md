@@ -12,7 +12,7 @@ Your program should be able to translate single words to Pig Latin. As an extens
 
 1. Always start by creating a new file in IDLE (Ctrl+n or Command+n).
 
-    - Save the new file as `pigLatin.py` in your 10MCOD directory.
+    - Save the new file as `pigLatin.py` in your 10DPRO directory.
 
 2. Use `input` to get the text from the user.
 

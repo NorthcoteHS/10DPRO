@@ -1,6 +1,6 @@
 # forLoops
 
-In Unit 2 we learned about [while loops](https://github.com/NorthcoteHS/10MCOD/tree/master/modules/u2_codingFundamentals/review#while-loops), which let you repeat a block of code over and over again, checking each time whether a condition is still true.
+In Unit 2 we learned about [while loops](/2_codingFundamentals/lessons/review#while-loops), which let you repeat a block of code over and over again, checking each time whether a condition is still true.
 
 It can be *very* useful to repeat a block of code a specific number of times, and to have a counter telling us which loop number we're on. This can be done using while loops:
 

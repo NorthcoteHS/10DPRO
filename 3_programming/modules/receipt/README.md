@@ -37,7 +37,7 @@ Your task is to create a basic program to generate a receipt for products purcha
 
 ## Steps
 
-1. Start by creating a new file in IDLE. Save the new file as `receipt.py` in your 10MCOD directory.
+1. Start by creating a new file in IDLE. Save the new file as `receipt.py` in your 10DPRO directory.
 
 2. Use a while loop to receive inputs from the user. You will probably need a counter variable to index your lists.
 

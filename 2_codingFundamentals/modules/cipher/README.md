@@ -14,7 +14,7 @@ Your task is to create a program that will encode a message (input by the user) 
 
 1. Always start by creating a new file in IDLE (Ctrl+n or Command+n).
 
-    - Save the new file as `cipher.py` in your 10MCOD directory.
+    - Save the new file as `cipher.py` in your 10DPRO directory.
 
 2. Use `input` to get the message from the user.
 
