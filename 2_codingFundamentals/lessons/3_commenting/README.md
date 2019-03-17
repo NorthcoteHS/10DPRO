@@ -51,7 +51,7 @@ You will be given paper exercises to test your ability to use comments and your 
 
     ```python
     """
-    Prog: [program name.py]
+    File: [program name.py]
     Name: [Your Name]
     Date: [Date the program was written]
     Desc: [Brief, 1-sentence description.]
