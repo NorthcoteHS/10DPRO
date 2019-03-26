@@ -22,11 +22,23 @@ Your task is to create a program that will encode a message (input by the user) 
 
 3. Use string operations to encode the message. You will need to understand the basics of ASCII - A computer uses ASCII codes to keep track of letters. Each character corresponds to a number (a = 97, b = 98, c = 99, etc. A = 65, B = 66, C = 67 etc.). See resources for details.
 
-    - Beware of spaces, punctuation and other characters!
+    - Start simple: Create an empty string, and make a for loop to read the input string one character at a time and add it to the end of the empty string.
+        - This should produce a string that is exactly the same as the original string.
+    - Now try to "shift" each character up by one (a->b, b->c, etc) before adding it to the empty string.
+        - To do this, you must first convert each character to its ASCII (number) value, increase that number by 1, and convert back to a character.
+        - Read in the resources below to understand ASCII and how to convert between characters and ASCII codes.
 
 4. Output the encoded message to the user.
 
 5. Use the resources below to guide you through the process.
+
+6. You're done the basic task! Now try adding features, for instance:
+
+    - Move the "cipher" logic into its own function that receives a string as input and returns a string as output.
+    - Add a "decode" option that lets you decode text that has been encoded already.
+    - Let the user choose the number of characters to shift by.
+    - Support "wrap-around", so that letters stay within the alphabet (e.g. x->y, y->z, z->a).
+    - Implement a more advanced type of cipher.
 
 ## Resources
 
