@@ -44,4 +44,4 @@ Each module and lesson also contains resources specific to the task. You can fin
 |-------------|----------|
 | If statements  | <ul><li>[Intro to if statements (Programiz)](https://www.programiz.com/python-programming/if-elif-else)</li><li>[If statements (Hands-On Tutorial)](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html)</li><li>[Control Flow (Official Tutorial)](https://docs.python.org/3/tutorial/controlflow.html)</li></ul> |
 | While loops    | <ul><li>[While loops (TutorialsPoint)](https://www.tutorialspoint.com/python/python_while_loop.htm)</li></ul> |
-| For loops      | <ul><li>[For loops (W3Schools)](https://www.w3schools.com/python/python_for_loops.asp)</li></ul> |
+| For loops      | <ul><li>[For loops (W3Schools)](https://www.w3schools.com/python/python_for_loops.asp)</li><li>[Looping through each character in a string (StackOverflow)](https://stackoverflow.com/a/538374/4080966)</li></ul> |
