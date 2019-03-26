@@ -55,4 +55,19 @@ In **this** folder, create a new Python file named `functions.py`, and create th
 5. `stringJoin(str1, str2)`: Takes two strings as input, and returns the two strings joined with a space between them.
 6. `birthday(name)`: Prints "Happy birthday, [name]!" to the screen (using the inputted name). No return value.
 
-**Note:** Your `functions.py` should *define* each function. If you run the file, it won't produce any output unless you actually *call* the functions, which is fine! Feel free to call the functions at the bottom of your file to test that the functions are working correctly.
+**Note:** Your `functions.py` should *define* each function.
+If you run the file, it won't produce any output unless you actually *call* the functions, which is fine!
+Feel free to call the functions at the bottom of your file to test that the functions are working correctly.
+For example:
+
+```python
+def hooray():
+    # Your code for hooray()...
+
+def subtract(x,y):
+    # Your code for subtract()...
+
+# Test each function.
+hooray()
+subtract()
+```
