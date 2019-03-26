@@ -46,6 +46,7 @@ Your task is to create a program that will encode a message (input by the user) 
 |-------------|----------|
 | ASCII | <ul><li>[ASCII Alphabet Table](http://www.kerryr.net/pioneers/ascii2.htm)</li><li>[the `ord` and `chr` functions](https://www.dotnetperls.com/ord-python)</li><li>[ASCII Table (Including Non-Alphabetic Characters)](http://www.asciitable.com/)</li></ul>
 | String Operations | <ul><li>[string - Common string operations (Python official docs)](https://docs.python.org/3/library/string.html)</li><li>[Manipulating Strings - Module 4 (Grok)](https://groklearning.com/learn/intro-python-1/manipulating-strings/0/)</li></ul> |
+| For loops      | <ul><li>[For loops (W3Schools)](https://www.w3schools.com/python/python_for_loops.asp)</li></ul> |
 
 ## Extensions
 
