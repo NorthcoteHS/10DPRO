@@ -1,6 +1,6 @@
 # studyBuddy
 
-This is one of the available options for your CAT 2 Coding component.
+This is one of the available options for CAT 2.
 
 ## Description
 

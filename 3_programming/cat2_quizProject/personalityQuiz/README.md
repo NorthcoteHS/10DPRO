@@ -1,6 +1,6 @@
 # personalityQuiz
 
-This is one of the available options for your CAT 2 Coding component.
+This is one of the available options for CAT 2.
 
 ## Description
 
@@ -9,6 +9,7 @@ You will create a personality type quiz that puts the user into a category based
 Examples:
 - Which emoji are you?
 - Which Hogwarts house do you belong in?
+- How many of these books have you read, and what does it say about you?
 - A magazine style quiz (eg. "If you answered mostly As, you are easygoing and roll with the punches. Sometimes, you secretly wish you could get your way.")
 
 Be creative with the types of questions you use, and use a calculation or comparison of some sort to assign the final result (it shouldn't be random).
