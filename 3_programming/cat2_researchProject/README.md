@@ -1,5 +1,5 @@
 # researchProject		
-Part 2 of your CAT is to research a computer science or programming topic that interests you, in pairs or individually, and create a report of your choice.
+Your CAT 2 task is to research a computer science or programming topic that interests you and create a report of your choice.
 	
 ## Description		
 Choose a computer science or programming topic to research.
