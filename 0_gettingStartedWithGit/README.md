@@ -16,4 +16,4 @@ Getting started with VS Code and with GitHub
 
 6.  At this stage you will need to restart your device to ensure all software is correctly installed. Doing this allows your computer to be in sync with GitHub.
 
-7.  to come
+7.  to come what is
