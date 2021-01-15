@@ -8,3 +8,4 @@ Getting started with VS Code and with GitHub
 3.	Run the Git Console (Git CMD).
 4.	Assign your name and email to match your GitHub account.
 5.	Download VS Code. Install with default settings.  https://code.visualstudio.com/?wt.mc_id=DX_841432 
+![](/resources/images/VSCodeInstall.png)
