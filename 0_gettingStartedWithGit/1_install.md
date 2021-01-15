@@ -1,5 +1,4 @@
-# Unit : Intro to GitHub
-Description to come 2021.
+# Unit 0 Lesson 1: Intro to GitHub
 
 Getting started with VS Code and with GitHub
 1.	Create a GitHub account. Use a combination of your given and family names for this.
